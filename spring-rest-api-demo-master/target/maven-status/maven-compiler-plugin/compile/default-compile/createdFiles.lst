@@ -1,0 +1,7 @@
+com\spidertracks\demo\rest\api\service\IPeopleService.class
+com\spidertracks\demo\rest\api\service\PeopleService.class
+com\spidertracks\demo\rest\api\controller\WelcomeController.class
+com\spidertracks\demo\rest\api\utils\SpringMVCUtils.class
+com\spidertracks\demo\rest\api\model\ApiMessage.class
+com\spidertracks\demo\rest\api\model\PeopleWrapper.class
+com\spidertracks\demo\rest\api\model\Person.class
